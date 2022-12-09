@@ -1,1 +1,1 @@
-# README.md
+# README.mdUn sistema de control de versiones te permite hacer un seguimiento de los cambios a tus documentos. Esto hace mucho mas fácil la recuperación de versiones antiguas de tu documento en caso de cometer un error y hace que la colaboración con otros sea mucho más fácil
