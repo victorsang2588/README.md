@@ -1,0 +1,1 @@
+. Aquí tenemos un ejemplo para ilustrar cómo funciona el control de versiones. Vamos a decir que tienes una lista de compras y quieres que tus compañeros de habitación confirmen las cosas que necesitas y agregar otros artículos adicionales.
